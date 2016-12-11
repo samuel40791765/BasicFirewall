@@ -3,7 +3,7 @@ have a input pcap file and a rule text available to read
 
 1. Compile both the firewall cpp file
 	
-gcc filewall firewall.cpp -lpcap
+gcc firewall firewall.cpp -lpcap
 
 
 2. Make sure the rule file is in this format
